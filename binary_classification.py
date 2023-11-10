@@ -43,7 +43,7 @@ for epoch in range(epochs):
 outputs_for_data = ANN_classifier(data)
 predicted_classes = (outputs_for_data > 0.5)            # >0.5 output is classified as class2, <=0.5 output is classified as class 1
 
-# testing model
+# evaluating model
 misclassified_indices = np.where(predicted_classes != labels)[0]
 total_misclassified_elements = len(misclassified_indices)
 percent_misclassified = total_misclassified_elements/len(labels)*100
