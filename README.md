@@ -5,7 +5,6 @@ I'm randomly generating data that can be linearly separated into class1 (0) and 
  There are no hidden layers. Binary Cross-Entropy (BCE) is used as a loss function. 
 
 ## Meta Parametric Experiment
-The Accuracy is plotted as a function of learning rate. The experiment is repeated 50 times to tackle randomness in results caused by random weight and bias initialization. mean of 50 accuracy values respective to a particular learning rate in the range (0.0001 - 0.1) is plotted, and it can be deduced that accuracy is directly proportional to the learning rate.   
+The Accuracy is plotted as a function of learning rate. The experiment is repeated 50 times to tackle randomness in results caused by random weights and bias initialization. mean of 50 accuracy values respective to a particular learning rate in the range (0.0001 - 0.1) is plotted, and it can be deduced that accuracy is directly proportional to the learning rate.   
 
-
-![Alt text](/meta parametric experiment result.jpeg?raw=true "Optional Title")
+![meta parametric experiment result](https://github.com/nishit3/ANN-Binary-Classification/assets/90385616/058ac05c-98e3-43d4-9cf9-856d4941dfae)
