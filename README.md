@@ -15,6 +15,6 @@ The model predicts wine quality (0=bad, 1=good). I have compared the performance
 
 ![Figure_1](https://github.com/nishit3/ANN-Binary-Classification/assets/90385616/0eba27ae-2e3c-4d52-82b4-f3781b7901f7)
 
-### Activation Function's Test Accuracy Comparision on Model
+### Activation Function's Test Accuracy Comparision
 
 ![Figure_1](https://github.com/nishit3/ANN-Binary-Classification/assets/90385616/a6f5bb93-c53c-4244-94b4-3727d4c30b49)
